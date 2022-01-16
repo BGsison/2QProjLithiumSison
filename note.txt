@@ -1,1 +1,15 @@
-Notes
+--------------------------------
+Guide:
+[ ] to-do
+[/] completed/ update
+[x] cancelled
+>>> udate/note
+--------------------------------
+----------------------------------------
+Note
+----------------------------------------
+[ ] update links/ replace current files
+    with edited ones
+[ ] add lists.html to htdocs
+[ ] link this note to every page
+[ ] add calamity-box.jpg to images
