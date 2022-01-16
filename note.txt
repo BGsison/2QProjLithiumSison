@@ -16,6 +16,7 @@ Note
     to htdocs
 [x] (after checking) link this note to
     every page
+    >>> [ ] comment link to note
 [ ] (after checking) add
     calamity-box.jpg to images
 
