@@ -6,13 +6,17 @@ Guide:
 >>> udate/ note
 -------------------------
 
-------------------------------------------------------------
+------------------------------------------
 Note
-------------------------------------------------------------
-[ ] (after checking) update links/ replace current files
-    with edited ones
-[ ] (after checking) add lists.html to htdocs
-[x] (after checking) link this note to every page
-[ ] (after checking) add calamity-box.jpg to images
+------------------------------------------
+[ ] (after checking) update links/
+    replace current files with edited
+    ones
+[ ] (after checking) add lists.html
+    to htdocs
+[x] (after checking) link this note to
+    every page
+[ ] (after checking) add
+    calamity-box.jpg to images
 
-------------------------------------------------------------
+------------------------------------------
