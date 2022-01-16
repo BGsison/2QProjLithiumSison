@@ -3,7 +3,7 @@ Guide:
 [ ] to-do
 [/] completed/ update
 [x] cancelled
->>> udate/note
+>>> udate/ note
 -------------------------
 ------------------------------------------
 Note
