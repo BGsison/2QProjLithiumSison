@@ -2,6 +2,7 @@
 Guide:
 [ ] to-do
 [/] completed/ update
+[-] in progress
 [x] cancelled
 >>> udate/ note
 -------------------------
@@ -9,15 +10,20 @@ Guide:
 ------------------------------------------
 Note
 ------------------------------------------
-[ ] (after checking) update links/
+[-] (after checking) update links/
     replace current files with edited
-    ones
+    ones - done editing local file
 [ ] (after checking) add lists.html
     to htdocs
+    [ ] (after checking) add
+    calamity-box.jpg to images
 [x] (after checking) link this note to
     every page
     >>> [ ] comment link to note
-[ ] (after checking) add
-    calamity-box.jpg to images
+[-] replace current files with
+    responsive ones - done editing
+    local files
+[-] share to non-pisay friends
+    for peer eval [count: 2]
 
 ------------------------------------------
