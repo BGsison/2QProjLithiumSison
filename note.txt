@@ -26,4 +26,9 @@ Note
 [/] share to non-pisay friends
     for peer eval
 
+[ ] work on lists episode links by either:
+    [ ] changing them to external links
+    to the amphibia fandom.com wiki
+    [ ] fix linking, debug linking
+    to plot info
 ------------------------------------------
