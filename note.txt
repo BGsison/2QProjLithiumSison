@@ -31,4 +31,6 @@ Note
     to the amphibia fandom.com wiki
     [ ] fix linking, debug linking
     to plot info
+[ ] add comment system
+    [ ] try making it real time
 ------------------------------------------
