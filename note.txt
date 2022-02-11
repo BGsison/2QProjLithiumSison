@@ -10,20 +10,20 @@ Guide:
 ------------------------------------------
 Note
 ------------------------------------------
-[-] (after checking) update links/
+[/] (after checking) update links/
     replace current files with edited
     ones - done editing local file
-[ ] (after checking) add lists.html
+[/] (after checking) add lists.html
     to htdocs
-    [ ] (after checking) add
+    [/] (after checking) add
     calamity-box.jpg to images
 [x] (after checking) link this note to
     every page
     >>> [ ] comment link to note
-[-] replace current files with
+[/] replace current files with
     responsive ones - done editing
     local files
-[-] share to non-pisay friends
-    for peer eval [count: 2]
+[/] share to non-pisay friends
+    for peer eval
 
 ------------------------------------------
